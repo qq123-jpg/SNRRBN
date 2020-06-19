@@ -2,7 +2,7 @@
 This repository is an official PyTorch implementation of the paper “ A simplified residual blocks deep convolutional neural network designed for single infrared image stripe noise removal”.
 **********************************************************************************
 # Set12 and raw infrared images results
-The whole experiments on Set12 including the raw images, noisy images and the recovered images of the methods we compared in https://pan.baidu.com/s/1jT-BVtns6x4OfaVeQz-I9Q  with code:hacb.
+The whole experiments on Set12 and infrared images including the raw images, noisy images and the recovered images of the methods we compared in https://pan.baidu.com/s/1jT-BVtns6x4OfaVeQz-I9Q  with code:hacb.
 **********************************************************************************
 # Dependencies:
   Python 3.6  
