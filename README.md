@@ -13,6 +13,6 @@ The whole experiments on Set12 and infrared images including the raw images, noi
   matplotlib  
   tqdm  
 # Quick start (Demo)
-  You can test our super-resolution algorithm with your own images. Place your images in test folder and run the next script. We supply the model we trained in the projects.
+  You can test our  stripe noise removal algorithm with your own images. Place your images in test folder and run the next script. We supply the model we trained in the projects.
 ## Contact with me
 If you have any questions, please contact with me. (419639875@qq.com)
